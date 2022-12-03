@@ -1,3 +1,3 @@
 # About
 
-REST API without frameworks (as Express.js) in NodeJS.
+Just a REST API without frameworks (as Express.js) in NodeJS for study purposes.
